@@ -1,4 +1,4 @@
-### Distroless
+### Distroless static
 
 Build:
 
